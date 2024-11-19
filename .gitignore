@@ -1,0 +1,27 @@
+# Build directory
+build/
+
+# Node modules
+node_modules/
+
+# Python virtual environment
+venv/
+env/
+
+# Results directory
+results/
+
+# OS files
+.DS_Store
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# npm debug logs
+npm-debug.log*
